@@ -1,0 +1,64 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+#backside {
+    background-color: white;
+}
+#first img {
+    width: 444px;
+}
+#first table td {
+    vertical-align:bottom;
+    height: 700px;
+}
+#first {
+    height: 700px;
+    background-color: #181818;
+}
+#second {
+    height: 700px;
+    background-color: #81197a;
+}
+#second img {
+    position: absolute;
+    right: 0px;
+    height: 700px;
+}
+#third {
+    height: 700px;
+    background-color: #d12828;
+}
+#third img {
+    height: 700px;
+}
+#fourth {
+    height: 700px;
+    background-color: #dcc383;
+}
+#fourth img {
+    position: absolute;
+    right: 283px;
+    height: 700px;
+}
+#fifth {
+    height: 700px;
+    background-color: #59b1d3;
+}
+#fifth img {
+    height: 700px;
+}
+#li {
+    position: absolute;
+    right: 197px;
+    top: 3190px;
+}
+#three {
+    width: 44%;
+}
+#fight {
+    height: 700px;
+    position: absolute;
+    right: 0px;
+    top: 4198px;
+}
