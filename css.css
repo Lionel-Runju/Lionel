@@ -1,10 +1,10 @@
-* {
+﻿* {
     padding: 0;
     margin: 0;
 }
 h1 {
     font-size: 5em;
-    color: #1d1d1d;
+    color: #353535;
 }
 h2 {
     text-decoration: line-through;
@@ -19,12 +19,12 @@ h2 {
     color: #ef4343;
 }
 .data {
-    color: #1d1d1d;
+    color: #353535;
     font-size: 2em;
 }
 h3 {
     font-size: 3em;
-    color: #1d1d1d;
+    color: #353535;
 }
 #backside {
     background-color: white;
