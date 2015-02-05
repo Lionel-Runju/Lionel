@@ -2,62 +2,161 @@
     padding: 0;
     margin: 0;
 }
+h1 {
+    font-size: 5em;
+    color: #1d1d1d;
+}
+h2 {
+    text-decoration: line-through;
+    color: #ef4343;
+    font-size: 4em;
+}
+.kuohao {
+    color: #ef4343;
+}
+.rebirth {
+    color: #1d1d1d;
+}
+.data {
+    color: #1d1d1d;
+    font-size: 2em;
+}
+h3 {
+    font-size: 3em;
+    color: #1d1d1d;
+}
 #backside {
     background-color: white;
 }
 #first img {
-    width: 444px;
+    width: 800px;
 }
-#first table td {
+table {
+    text-align: center;
+}
+.td1 {
     vertical-align:bottom;
-    height: 700px;
+    height: 710px;
+}
+.td2 {
+    width: 100%;
+    vertical-align: top;
 }
 #first {
-    height: 700px;
+    height: 710px;
     background-color: #181818;
 }
 #second {
-    height: 700px;
+    height: 710px;
     background-color: #81197a;
 }
+.second {
+    text-align: left;
+    font-size: 35px;
+    color: white;
+    font-family: 微软雅黑;
+}
+.seconds {
+    text-align: left;
+    font-size: 25px;
+    color: white;
+    font-family: 微软雅黑;
+}
 #second img {
+    height: 710px;
     position: absolute;
     right: 0px;
-    height: 700px;
 }
 #third {
-    height: 700px;
+    height: 710px;
     background-color: #d12828;
 }
+.table_third {
+    float: right;
+}
 #third img {
-    height: 700px;
+    height: 710px;
 }
 #fourth {
-    height: 700px;
-    background-color: #dcc383;
+    height: 710px;
+    background-color: #117172;
 }
 #fourth img {
     position: absolute;
     right: 283px;
-    height: 700px;
+    height: 710px;
 }
 #fifth {
-    height: 700px;
-    background-color: #59b1d3;
+    height: 710px;
+    background-color: #19814a;
 }
-#fifth img {
-    height: 700px;
-}
-#li {
+#Rei {
     position: absolute;
-    right: 197px;
-    top: 3190px;
+    height: 710px;
+    top: 3240px;
+    left: 18px;
 }
-#three {
-    width: 44%;
+#asuka_chlid {
+    position: absolute;
+    right: 18px;
+    top: 2900px;
+}
+#sixth {
+    height: 710px;
+    background-color: #3b3b3b;
+}
+#seventh {
+    height: 710px;
+    background-color: #ebe030;
+}
+.seventh_table {
+    margin: auto;
+    height: 710px;
+}
+.seventh_seconds {
+    text-align: center;
+    color: white;
+    font-family: 微软雅黑;
+    font-size: 25px;
+}
+#eighth {
+    height: 710px;
+    background-color: #181818;
+}
+.eighth_table {
+    height: 710px;
+    margin: auto;
+}
+.seconds_pippa {
+    text-align: left;
+    font-size: 25px;
+    color: white;
+    vertical-align:bottom;
+    font-family: 微软雅黑;
+}
+.pippa {
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    font-family: 微软雅黑;
+}
+#ninth {
+    height: 710px;
+    background-color: #ffffff;
+}
+.ninth_three img {
+    height: 710px;
+    opacity: 0.2;
+}
+.ninth_three {
+    width: 50%;
+}
+.end {
+    font-size: 20px;
+    font-family: 微软雅黑;
 }
 #fight {
-    height: 700px;
+    height: 710px;
     position: absolute;
     right: 0px;
     top: 4198px;
